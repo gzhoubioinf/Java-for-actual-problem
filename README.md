@@ -6,6 +6,7 @@ producing reports. Each department submits its monthly sales as shown in Table 1
 quarter consist of 3 months starting with the first quarter being from January to March 
 inclusively.
 
+![Screen Shot 2023-02-27 at 3 10 43 PM](https://user-images.githubusercontent.com/94352431/221497498-40b9f1a3-c84b-4311-98ea-e6127059c9af.png)
 
 
 They require an application to use this data to produce a report for each quarter which 
